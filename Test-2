@@ -1,0 +1,13 @@
+hrs = input("Enter Hours:")
+rate = input("Enter pay per hour:")
+h = float(hrs)
+r = float(rate)
+if h > 40:
+    #tutaj liczymy overtime
+    Ohr = h * r
+    Thr = (h - 40.0) * (r * 0.5)
+    ROThr = Ohr + Thr
+else:
+    ROThr = h * r
+print(ROThr)
+
