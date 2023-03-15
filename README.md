@@ -6,3 +6,6 @@ Czego się nauczyłem z kursu:
 - Opisać podstawy języka programowania Python
 - Używać zmiennych do przechowywania, pobierania i obliczania informacji
 - Wykorzystywać podstawowe narzędzia programistyczne, takie jak funkcje i pętle
+
+
+Progresując kurs, poziom trudności wzrastał od zadania 1-2 oraz od testu 1-7
