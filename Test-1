@@ -1,0 +1,4 @@
+#US elevator floors
+windaEu = input("Winda Europejska: ")
+windaUS = int(windaEu) + 1
+print("Winda Amerykańska", windaUS)
