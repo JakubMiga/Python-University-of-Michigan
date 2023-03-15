@@ -9,3 +9,4 @@ Czego się nauczyłem z kursu:
 
 
 Progresując kurs, poziom trudności wzrastał od zadania 1-2 oraz od testu 1-7
+Program na którym pisałem kod: Visual Studio Code
