@@ -1,12 +1,11 @@
-# Kurs Python poziom początkujący - "Getting Started with Python" by Charles Severance University of Michigan
+# Beginner level Python course - "Getting Started with Python" Charles Severance University of Michigan
 
-Ten kurs ma na celu nauczyć wszystkich podstaw programowania komputerów przy użyciu Pythona. Omówione zostały podstawy konstruowania programu z serii prostych instrukcji w Pythonie. Kurs nie ma wymagań wstępnych i unika wszystkich, poza najprostszą matematyką. Każda osoba z umiarkowanym doświadczeniem komputerowym powinna być w stanie opanować materiały zawarte w tym kursie. Kurs obejmuje rozdziały 1-5 podręcznika "Python dla każdego".  Kiedy student ukończy ten kurs, będzie gotowy do podjęcia bardziej zaawansowanych kursów programowania. Ten kurs obejmuje Python 3.
+This course is designed to teach everyone the basics of computer programming using Python. The basics of constructing a program from a series of simple instructions in Python are discussed. The course has no prerequisites and avoids all but the simplest math. Any person with moderate computer experience should be able to master the material in this course. The course covers chapters 1-5 of the "Python for Everyone" textbook. Once a student completes this course, he or she will be ready to take more advanced programming courses. This course covers Python 3.
 
-Czego się nauczyłem z kursu:
-- Opisać podstawy języka programowania Python
-- Używać zmiennych do przechowywania, pobierania i obliczania informacji
-- Wykorzystywać podstawowe narzędzia programistyczne, takie jak funkcje i pętle
+What I learned from the course:
 
+Describe the basics of the Python programming language
+Use variables to store, retrieve and calculate information
+Use basic programming tools such as functions and loops
+Progressing through the course, the level of difficulty increased from Task 1-2 and from Test 1-7 The program on which I wrote code: Visual Studio Code
 
-Progresując kurs, poziom trudności wzrastał od zadania 1-2 oraz od testu 1-7
-Program na którym pisałem kod: Visual Studio Code
